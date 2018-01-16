@@ -1,8 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+import ReactDOM from 'react-dom'
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+const API_KEY = process.env.YOUTUBE_API_KEY;
+
+const App = () => {
+    return <div>Hi!</div>;
+}
+
+ReactDOM.render(<App />, document.querySelector('#root'));
