@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
-		"lodash": "^4.17.4",
+		"lodash": "^4.17.15",
 		"react": "^16.8.0",
 		"react-dom": "^16.8.0",
 		"react-scripts": "3.0.1",
@@ -19,6 +19,6 @@
 	},
 	"homepage": "https://garrettmmoore.github.io/react-youtube-player",
 	"devDependencies": {
-		"gh-pages": "^1.1.0"
+		"gh-pages": "^2.0.1"
 	}
 }
