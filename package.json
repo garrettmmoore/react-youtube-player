@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://garrettmmoore.github.io/react-youtube-player",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "lodash": "^4.17.20",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
